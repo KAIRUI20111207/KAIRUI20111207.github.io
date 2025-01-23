@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://KAIRUI20111207.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://KAIRUI20111207.github.io</link></image><lastBuildDate>Thu, 23 Jan 2025 07:07:21 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>《开一个我的世界服务器》②开服-Windows</title><link>https://KAIRUI20111207.github.io/post/%E3%80%8A-kai-yi-ge-wo-de-shi-jie-fu-wu-qi-%E3%80%8B%E2%91%A1-kai-fu--Windows.html</link><description>**一、使用 MSL 开服器开服**
+**一、使用 MSL 开服器开服**
 
 ### 下载
 
@@ -72,6 +71,3 @@
 ![Image](https://github.com/user-attachments/assets/8708dd83-5159-4d15-8bd4-32db73841668)
 
 ![Image](https://github.com/user-attachments/assets/1ed7924b-b163-46eb-9ce7-eb57b1bb2945)
-。</description><guid isPermaLink="true">https://KAIRUI20111207.github.io/post/%E3%80%8A-kai-yi-ge-wo-de-shi-jie-fu-wu-qi-%E3%80%8B%E2%91%A1-kai-fu--Windows.html</guid><pubDate>Thu, 23 Jan 2025 07:06:58 +0000</pubDate></item><item><title>我的世界服务器：探索无限可能的虚拟世界</title><link>https://KAIRUI20111207.github.io/post/wo-de-shi-jie-fu-wu-qi-%EF%BC%9A-tan-suo-wu-xian-ke-neng-de-xu-ni-shi-jie.html</link><description># 《我的世界服务器：探索无限可能的虚拟世界》
-
-在《我的世界》中，服务器是玩家进入多人游戏世界的桥梁。</description><guid isPermaLink="true">https://KAIRUI20111207.github.io/post/wo-de-shi-jie-fu-wu-qi-%EF%BC%9A-tan-suo-wu-xian-ke-neng-de-xu-ni-shi-jie.html</guid><pubDate>Thu, 23 Jan 2025 06:16:11 +0000</pubDate></item></channel></rss>
